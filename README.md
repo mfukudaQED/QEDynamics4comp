@@ -26,14 +26,14 @@ difference from the initial value) against 2nd row (time).
     You are not allowed to redistribute QEDynamics (4 component version) in any form.
 
 1. No Commercial Use :   
-    You may not use QEDynamics (4 component version)) for any commercial purposes without prior written consent from us.
+    You may not use QEDynamics (4 component version) for any commercial purposes without prior written consent from us.
 
 1. No Warranty :  
     The program represents experimental code and there is no warranty of correctness of results.
 
 1. Citation :  
-    Any use of QEDynamics (module for Dirac) that results in published material should cite the following: 
-    ''QEDynamics (module for Dirac) (2023), written by M. Senami, K. Ichikawa, A. Tachibana  
+    Any use of QEDynamics (4 component version) that results in published material should cite the following: 
+    ''QEDynamics (4 component version) (2023), written by M. Senami, K. Ichikawa, A. Tachibana  
     with contributions from M. Fukuda and K. Soga,  
     (https://github.com/mfukudaQED/QEDynamics4comp)''
 
