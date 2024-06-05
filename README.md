@@ -1,4 +1,4 @@
-# QEDynamics (4 components version)
+# QEDynamics (4 component version)
 
 ## About
 QEDynamics(4 component version) is a Fortran 90 program 
